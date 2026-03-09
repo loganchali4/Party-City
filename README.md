@@ -2,6 +2,7 @@
 January 2026 | Estimating Comparable Sales and Evaluating Store Footprint
 
 View interactive web notebook [HERE](https://deepnote.com/workspace/Logans-Python-Workspace-4499e17c-38f8-4e22-9fd9-bb4212d29105/project/Party-City-d9e136f6-61ec-429e-ac19-8696445300f6/notebook/260112partycity-b9992bf07b4943b0b70122a966fd9e9e?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=d9e136f6-61ec-429e-ac19-8696445300f6)
+
 ---
 
 ## 1. Q4 2022 Comparable Sales Outlook
@@ -26,8 +27,6 @@ I rank stores with a simple, interpretable 0-1 score (equal weights across all f
 - TTM sales where available (with missing sales filled using the average)
 
 The lowest-ranked stores are the most plausible closure candidates under a footprint rationalization plan. One pattern that stood out is that a disproportionate share of the bottom-scoring locations are in Texas, especially around San Antonio (and some Austin), suggesting possible market saturation/overlap there.
-
-I've attached a file including the full ranked location output for your review, if interested.
 
 ---
 
